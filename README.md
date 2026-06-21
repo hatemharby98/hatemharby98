@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ Hatem Harby | Red Team Operator </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=DC143C&width=435&lines=Breaching+the+perimeter...;Advanced+Web+Exploitation;Bypassing+Defenses;Python+%7C+.NET+%7C+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=DC143C&width=435&lines=Breaching+the+perimeter...;Advanced+Web+Exploitation;Bypassing+Defenses;Python+%7C+C+++%7C+Networking" alt="Typing SVG" />
 </div>
 
 ---
