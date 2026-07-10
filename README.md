@@ -13,7 +13,7 @@
   <a href="https://tryhackme.com/p/hatemharby98">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="[https://app.hackthebox.com/profile/hatemharby98](https://profile.hackthebox.com/)">
+  <a href="https://profile.hackthebox.com/">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
   <a href="https://portswigger.net/web-security/all-labs">
